@@ -200,7 +200,7 @@ Group problem ([PDF]({{< baseurl >}}/resources/ic_w12d2_1))
 {{< tdopen >}}
 
 
-Superposition principle (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ic_w13d1_1))
+Superposition principle ([PDF]({{< baseurl >}}/resources/ic_w13d1_1))
 
 Group problem: Plane waves ([PDF]({{< baseurl >}}/resources/ic_w13d1_2))
 
