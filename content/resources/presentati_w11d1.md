@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   questions: 2 lab questions'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a0c9e1a4529a09388c80f78bc62494de_presentati_w11d1.pdf
 file_type: application/pdf
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: presentati_w11d1.pdf
 uid: a0c9e1a4-529a-0938-8c80-f78bc62494de

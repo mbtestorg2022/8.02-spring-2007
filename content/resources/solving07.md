@@ -9,6 +9,7 @@ description: This resource tells about to explore a particular situation that ca
   of the circuit.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/79b9a68279c9bfb7452898c5170097e4_solving07.pdf
 file_type: application/pdf
+parent_uid: ad9d1a7e-98d0-b1ff-318d-13ddbf7639b1
 resourcetype: Document
 title: solving07.pdf
 uid: 79b9a682-79c9-bfb7-4528-98c5170097e4

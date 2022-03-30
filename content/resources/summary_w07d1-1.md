@@ -4,6 +4,7 @@ description: 'This resource is about Magnetic Fields: Feeling Magnetic Fields ? 
   and Dipoles.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/d81d45892859a6ecad5c85c8ce7f0561_summary_w07d1.pdf
 file_type: application/pdf
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: summary_w07d1.pdf
 uid: d81d4589-2859-a6ec-ad5c-85c8ce7f0561

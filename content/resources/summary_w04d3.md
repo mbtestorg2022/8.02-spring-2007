@@ -5,6 +5,7 @@ description: This file talks about calculating capacitance and energy storage by
   it.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/c3f6dd666de36736d0972fbc1e281f68_summary_w04d3.pdf
 file_type: application/pdf
+parent_uid: 0daf4987-1459-8983-aa85-5689f242c83b
 resourcetype: Document
 title: summary_w04d3.pdf
 uid: c3f6dd66-6de3-6736-d097-2fbc1e281f68

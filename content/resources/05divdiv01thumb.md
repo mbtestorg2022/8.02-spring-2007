@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 05divdiv01Thumb.jpg
 uid: f89c904b-1617-814c-a5ec-5b1f836570af

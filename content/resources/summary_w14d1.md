@@ -5,6 +5,7 @@ description: This resource talks about one of the most common types of antennae,
   transmitter.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/52a0153a9552f8f4deb459efd3bd1392_summary_w14d1.pdf
 file_type: application/pdf
+parent_uid: 0daf4987-1459-8983-aa85-5689f242c83b
 resourcetype: Document
 title: summary_w14d1.pdf
 uid: 52a0153a-9552-f8f4-deb4-59efd3bd1392

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 19earthFarThumb.jpg
 uid: 38350b58-2adb-3f58-2203-d9834a886b98

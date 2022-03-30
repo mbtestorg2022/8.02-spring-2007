@@ -5,6 +5,7 @@ description: This resource contains informations about RLC circuit, plot on curr
   frequency.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ce5974a8a03e156b3762c14e328bc439_prs_w11d2_qonly.pdf
 file_type: application/pdf
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: prs_w11d2_qonly.pdf
 uid: ce5974a8-a03e-156b-3762-c14e328bc439

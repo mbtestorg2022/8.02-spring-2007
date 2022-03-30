@@ -5,6 +5,7 @@ description: This resource talks about Maxwell?s equation, Faraday?s law, which 
   that vary in time.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/a8cc3d1cf958ad05c8ce853e8421e85d_summary_w09d1.pdf
 file_type: application/pdf
+parent_uid: 0daf4987-1459-8983-aa85-5689f242c83b
 resourcetype: Document
 title: summary_w09d1.pdf
 uid: a8cc3d1c-f958-ad05-c8ce-853e8421e85d

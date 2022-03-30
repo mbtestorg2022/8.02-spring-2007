@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 13parallelThumb.jpg
 uid: 567b54e8-772e-8dc2-2b03-50fd9e725dd7

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 04moveChrgPosElecThumb.jpg
 uid: 5fc90b1e-610b-6513-6859-8876b1d6727c

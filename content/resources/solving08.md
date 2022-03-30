@@ -7,6 +7,7 @@ description: This resource tells to  gain intuition for the behavior of DC circu
   dependent currents in such circuits.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/6856832edbdd677670094393947e4645_solving08.pdf
 file_type: application/pdf
+parent_uid: ad9d1a7e-98d0-b1ff-318d-13ddbf7639b1
 resourcetype: Document
 title: solving08.pdf
 uid: 6856832e-dbdd-6776-7009-4393947e4645

@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
   questions, and additional problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/408d683395106a54b6d89433457abb6c_chap2coulomb_law.pdf
 file_type: application/pdf
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: chap2coulomb_law.pdf
 uid: 408d6833-9510-6a54-b6d8-9433457abb6c

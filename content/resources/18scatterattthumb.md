@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 18scatterAttThumb.jpg
 uid: ec807663-2148-8ee1-413a-59e18bb24d89

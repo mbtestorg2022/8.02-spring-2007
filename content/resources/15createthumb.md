@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 15createThumb.jpg
 uid: 7cde6878-9691-af36-36ba-9c9f67ccf5f6

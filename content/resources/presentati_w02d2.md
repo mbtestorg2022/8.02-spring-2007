@@ -10,6 +10,7 @@ description: 'This resource includes the following topics:
   problem: charge slab.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ae0d9b601b83812b25ed6a4fb0c19a03_presentati_w02d2.pdf
 file_type: application/pdf
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: presentati_w02d2.pdf
 uid: ae0d9b60-1b83-812b-25ed-6a4fb0c19a03

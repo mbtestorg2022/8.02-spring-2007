@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 02smPtDipThumb.jpg
 uid: f5fb260b-51c5-aba1-be49-492f41496d39

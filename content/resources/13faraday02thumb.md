@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 13faraday02thumb.jpg
 uid: e42f31b5-6e33-728c-34aa-188cde3b443c

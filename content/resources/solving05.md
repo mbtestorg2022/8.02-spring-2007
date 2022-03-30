@@ -7,6 +7,7 @@ description: This resource tells  about using Ampere?s Law for calculating magne
   of current using Ampere?s Law.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/e2f3a5b9680b1fe5d269dd989048ba02_solving05.pdf
 file_type: application/pdf
+parent_uid: ad9d1a7e-98d0-b1ff-318d-13ddbf7639b1
 resourcetype: Document
 title: solving05.pdf
 uid: e2f3a5b9-680b-1fe5-d269-dd989048ba02

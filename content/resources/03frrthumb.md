@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 03FRRThumb.jpg
 uid: 6c9f0c20-461a-5511-01f2-c32b270d73ee

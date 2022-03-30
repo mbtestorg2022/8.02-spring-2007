@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 05FMSAthumb.jpg
 uid: 85667d66-d601-cd76-2a1b-a2d9582d403e

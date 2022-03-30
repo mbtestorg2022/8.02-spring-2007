@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 43torqueondipoleethumb.jpg
 uid: 471b39da-c9a3-7261-3971-c23d4c27c6ca

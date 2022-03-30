@@ -4,6 +4,7 @@ description: This resource contains informations about methodology for applying 
   law and exercises on concentric cylinders.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/dc84ab49c12520f6d4a043106ba75f91_solving03.pdf
 file_type: application/pdf
+parent_uid: ad9d1a7e-98d0-b1ff-318d-13ddbf7639b1
 resourcetype: Document
 title: solving03.pdf
 uid: dc84ab49-c125-20f6-d4a0-43106ba75f91

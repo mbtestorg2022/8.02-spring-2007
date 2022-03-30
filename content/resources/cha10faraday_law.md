@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/ce1720fd4b21def8c2189ff4779f27f7_cha10faraday_law.pdf
 file_type: application/pdf
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: cha10faraday_law.pdf
 uid: ce1720fd-4b21-def8-c218-9ff4779f27f7

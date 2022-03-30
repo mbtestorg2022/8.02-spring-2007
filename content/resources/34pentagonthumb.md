@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 34pentagonthumb.jpg
 uid: a9467fa9-2f74-ceb4-c335-06e51b09abd8

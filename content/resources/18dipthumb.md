@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 18dipThumb.jpg
 uid: d3de1a2f-ce26-eee9-03b5-b2e8a0474727

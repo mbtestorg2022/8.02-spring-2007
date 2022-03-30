@@ -7,6 +7,7 @@ description: 'This resource tells to explore the relationship between driven cur
   on the LRC circuits.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/5df72d7b916f753da20a6b075115612d_solving09.pdf
 file_type: application/pdf
+parent_uid: ad9d1a7e-98d0-b1ff-318d-13ddbf7639b1
 resourcetype: Document
 title: solving09.pdf
 uid: 5df72d7b-916f-753d-a20a-6b075115612d

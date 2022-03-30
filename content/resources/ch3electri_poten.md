@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   electric potential, solved problems, conceptual questions, and additional problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/033d8a3a823e7986130c396aeb04f8b5_ch3electri_poten.pdf
 file_type: application/pdf
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: ch3electri_poten.pdf
 uid: 033d8a3a-823e-7986-130c-396aeb04f8b5

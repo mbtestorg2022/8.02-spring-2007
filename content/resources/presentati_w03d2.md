@@ -9,6 +9,7 @@ description: 'This resource includes the following topics:
   Gauss?s law for dielectrics, and dielectric in a capacitor.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/868f2e3078fb1489fdda2ba2cff75452_presentati_w03d2.pdf
 file_type: application/pdf
+parent_uid: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
 resourcetype: Document
 title: presentati_w03d2.pdf
 uid: 868f2e30-78fb-1489-fdda-2ba2cff75452

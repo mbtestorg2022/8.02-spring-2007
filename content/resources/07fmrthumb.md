@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 07FMRthumb.jpg
 uid: 4dc0f176-dabf-9498-91b5-1cee033fece2

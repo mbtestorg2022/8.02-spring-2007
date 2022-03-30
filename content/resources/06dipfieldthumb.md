@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 06dipFieldThumb.jpg
 uid: 93cb3445-bed6-af6f-91da-637ae478efed

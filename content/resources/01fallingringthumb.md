@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 01FallingRingThumb.jpg
 uid: 5d7e921c-6ebd-ba58-344b-c4510b93f851

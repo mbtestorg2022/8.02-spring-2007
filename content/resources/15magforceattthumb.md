@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 15magForceAttThumb.jpg
 uid: e9300ba3-20a3-1eec-9db9-e9b9552b4982

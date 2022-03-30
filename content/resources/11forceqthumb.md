@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 11forceQThumb.jpg
 uid: 8579f53e-da0c-1968-367c-fb4e632c13e7

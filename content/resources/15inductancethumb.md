@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ea1fcef1-1143-e57e-2f48-a97bf8747dc2
 resourcetype: Image
 title: 15inductancethumb.jpg
 uid: fbe905d3-ceb5-70c6-7ceb-8895da4b47eb
